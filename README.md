@@ -1,6 +1,6 @@
 <h1 align="center">👋 I'm Boris </h1>
 <h3 align="center">A juniour fullstack developer</h3>
-<h5 align="center">I became really passionate about coding and solving tasks</h5>
+<h5 align="center">I'm  really passionate about coding and solving tasks</h5>
 
 
 - 🔭 I’m currently working on [Blink-Invest](https://github.com/tournz/blink-invest)
