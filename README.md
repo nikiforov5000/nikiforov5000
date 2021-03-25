@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Boris Nikiforov</h1>
-<h3 align="center">A fullstack developer</h3>
+<h1 align="center">Hi, I'm Boris </h1>
+<h3 align="center">A juniour fullstack developer</h3>
 
 - 🔭 I’m currently working on [Blink-Invest](https://github.com/tournz/blink-invest)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikiforov5000/](https://github.com/nikiforov5000/)
 
-- 📫 How to reach me **nikiforov5000@gmail.com**
+-  Reach me **nikiforov5000@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nikiforov5000/](https://www.linkedin.com/in/nikiforov5000/)
 
