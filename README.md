@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Blink-Invest](https://github.com/tournz/blink-invest)
 
-- 🌱 I’m currently learning **Rails, React, Redux**
+- 🌱 I’m currently learning **Rails, C++, OpenGL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikiforov5000/](https://github.com/nikiforov5000/)
 
