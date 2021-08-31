@@ -3,7 +3,7 @@
 <h5 align="center">I'm  really passionate about coding and solving tasks</h5>
 
 
-- 🔭 I’m currently working on [Calculator](https://github.com/nikiforov5000/Cpp_Calculator)
+- 🔭 I’m currently working on [Calculator](https://github.com/nikiforov5000/Calculator)
 
 - 🌱 I’m currently learning **Rails, C++, OpenGL**
 
