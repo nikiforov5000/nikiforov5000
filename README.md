@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Text-enterpreter calculator](https://github.com/nikiforov5000/Text-enterpreter)
 
-- 🌱 I’m currently learning **Rails, C++, OpenGL**
+- 🌱 I’m currently learning **C++, Rails, OpenGL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikiforov5000/](https://github.com/nikiforov5000/)
 
