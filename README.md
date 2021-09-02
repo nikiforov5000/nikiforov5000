@@ -3,7 +3,7 @@
 <h5 align="center">I'm  really passionate about coding and solving tasks</h5>
 
 
-- 🔭 I’m currently working on [Text-enterpreter calculator](https://github.com/nikiforov5000/Text-enterpreter)
+- 🔭 I’m currently working on [Text-interpreter calculator](https://github.com/nikiforov5000/Text-interpreter)
 
 - 🌱 I’m currently learning **C++, Rails, OpenGL**
 
