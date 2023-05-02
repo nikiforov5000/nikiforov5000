@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Boris </h1>
-<h3 align="center">A Flutter developer</h3>
+<h3 align="center">Flutter developer</h3>
 
 
 - 🔭 I’m currently working on [eCommerce application](https://github.com/nikiforov5000/ecommerce_demo) and [fetch data from server](https://github.com/nikiforov5000/task_timer)
